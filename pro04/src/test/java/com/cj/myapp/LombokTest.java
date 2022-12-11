@@ -10,9 +10,9 @@ public class LombokTest {
 	@Test
 	public void testLombok() {
 		SampleDTO dto = new SampleDTO();
-		dto.setName("김기태");
-		dto.setAge(38);
-		dto.setIq(89.2);
+		dto.setName("정진석");
+		dto.setAge(36);
+		
 	
 		logger.info(dto.toString());
 	}

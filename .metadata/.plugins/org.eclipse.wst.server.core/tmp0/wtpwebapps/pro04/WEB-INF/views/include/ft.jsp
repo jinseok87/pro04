@@ -6,6 +6,7 @@
 <c:set var="path3" value="${pageContext.request.contextPath }" />
 <!-- 푸터 내용 기술 -->
 <article class="ft_wrap">
+
 	<div class="footer-nav-left">
 	  <p class="footer-copyright">©2022 Company WebApplication</p>
 	</div>

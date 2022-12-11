@@ -28,17 +28,10 @@
 <article class="grid-container">
       <div class="grid-x grid-margin-x">
     
-        <div class="medium-7 large-6 cell">
-          <h1>Close Your Eyes and Open Your Mind</h1>
-          <p class="subheader">There is beauty in space, and it is orderly. There is no weather, and there is regularity. It is predictable. Everything in space obeys the laws of physics. If you know these laws, and obey them, space will treat you kindly.</p>
-          <button class="button">Take a Tour</button>
-          <button class="button">Start a free trial</button>
+        <div class="medium-7 large-9 cell">
+          <h1><img src="${path2 }/resources/image/main/main-title.jpg" alt="title"></h1>
         </div>
-    
-        <div class="show-for-large large-3 cell">
-          <img src="https://placeimg.com/400/370/people" alt="picture of space">
-        </div>
-    
+
         <div class="medium-5 large-3 cell">
           <div class="callout secondary">
 			<c:if test="${!empty msg }">
@@ -101,62 +94,58 @@
         </div>
     
       </div>
-    
-    <div class="">
-      <hr>
-    </div>
-    
-    <div class="">
-      <p class="lead">Trending Planetary Destinations</p>
+      <br>
+    <div class="main-content">
+      <p class="lead">Total Imaging Solution</p>
     </div>
     
     <div class="grid-x grid-margin-x small-up-1 medium-up-2 large-up-3">
       <div class="cell">
         <div class="callout">
-          <p>Pegasi B</p>
-          <p class="pic"><img src="https://placeimg.com/400/370/any" alt="image of a planet called Pegasi B"></p>
-          <p class="lead">Copernican Revolution caused an uproar</p>
-          <p class="subheader">Find Earth-like planets life outside the Solar System</p>
+          <p>PIXMA G690</p>
+          <p class="pic"><img src="${path2 }/resources/image/main/main-1.jpg" alt="main-1"></p>
+          <p class="lead">캐논의 새로운 고품질 무한 포토 프린터</p>
+          <p class="subheader">무한 잉크젯 포토프린터</p>
         </div>
       </div>
       <div class="cell">
         <div class="callout">
-          <p>Pegasi B</p>
-          <p class="pic"><img src="https://placeimg.com/400/370/animals" alt="image of a planet called Pegasi B"></p>
-          <p class="lead">Copernican Revolution caused an uproar</p>
-          <p class="subheader">Find Earth-like planets life outside the Solar System</p>
+          <p>EOS R6 Mark II</p>
+          <p>Power Shot Pick</p>
+          <p class="pic"><img src="${path2 }/resources/image/main/main-5.jpg" alt="main-5"></p>
+          <p class="lead">우리가족 포토그래퍼, 캐논 Power Shot Poick 카메라 출시</p>
+          <p class="subheader">PowerShot PICK 컴팩트 카메라</p>
         </div>
       </div>
       <div class="cell">
         <div class="callout">
-          <p>Pegasi B</p>
-          <p class="pic"><img src="https://placeimg.com/400/370/nature" alt="image of a planet called Pegasi B"></p>
-          <p class="lead">Copernican Revolution caused an uproar</p>
-          <p class="subheader">Find Earth-like planets life outside the Solar System</p>
+          <p> imagePRESS C10010VP/C9010VP</p>
+          <p class="pic"><img src="${path2 }/resources/image/main/main-3.jpg" alt="main-3"></p>
+          <p class="lead">뛰어난 색감 실현, 생산성 높은 컬러 디지털 인쇄기</p>
+          <p class="subheader">imagePRESS C10010VP 디지털 인쇄기</p>
         </div>
       </div>
       <div class="cell">
         <div class="callout">
-          <p>Pegasi B</p>
-          <p class="pic"><img src="https://placeimg.com/400/370/tech" alt="image of a planet called Pegasi B"></p>
-          <p class="lead">Copernican Revolution caused an uproar</p>
-          <p class="subheader">Find Earth-like planets life outside the Solar System</p>
+          <p>토이 스토리 캐릭터 한정판 패키지</p>
+          <p class="pic"><img src="${path2 }/resources/image/main/main-4.jpg" alt="main-4"></p>
+          <p class="lead">토이 스토리 캐릭터 한정판 패키지 출시 </p>
+          <p class="subheader">셀피스퀘어 QX10 INSPIC S2</p>
         </div>
       </div>
       <div class="cell">
         <div class="callout">
-          <p>Pegasi B</p>
-          <p class="pic"><img src="https://placeimg.com/400/370/arch" alt="image of a planet called Pegasi B"></p>
-          <p class="lead">Copernican Revolution caused an uproar</p>
-          <p class="subheader">Find Earth-like planets life outside the Solar System</p>
+          <p class="pic"><img src="${path2 }/resources/image/main/main-2.jpg" alt="main-2"></p>
+          <p class="lead">사진과 영사, 그 프레임을 넘어선 풀프레임</p>
+          <p class="subheader">EOS R6 Mark II 미러리스</p>
         </div>
       </div>
       <div class="cell">
         <div class="callout">
-          <p>Pegasi B</p>
-          <p class="pic"><img src="https://placeimg.com/400/370/people" alt="image of a planet called Pegasi B"></p>
-          <p class="lead">Copernican Revolution caused an uproar</p>
-          <p class="subheader">Find Earth-like planets life outside the Solar System</p>
+          <p>iR ADV DX Series</p>
+          <p class="pic"><img src="${path2 }/resources/image/main/main-6.jpg" alt="main-6"></p>
+          <p class="lead">디지털트랜스포메이션 오피스를 선사하다</p>
+          <p class="subheader">iR ADV DX Series</p>
         </div>
       </div>
     

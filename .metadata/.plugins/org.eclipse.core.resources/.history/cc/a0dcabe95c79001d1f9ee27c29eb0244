@@ -1,0 +1,90 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
+<%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions"%>
+<c:set var="path3" value="${pageContext.request.contextPath }" />
+<!-- 푸터 내용 기술 -->
+<article class="ft_wrap">
+	<div class="footer-info">
+		<div class="l-grid">
+			<div class="footerQuick">
+				<a href="/member/agreement">이용약관</a>
+				<a href="/member/policy">
+					<strong>개인정보 처리방침</strong>
+				</a>
+				<a href="/member/privacyMovieInfo">영상정보처리기기운영관리방침</a>
+			</div>
+			<div class="footerAddr">
+				캐논코리아 (주)
+				<span>대표자 : 박정우, 혼마토시오</span>
+				<span>사업자등록번호 : 120-81-15636 </span>
+				<span>통신판매 번호 : 강남-01282 </span>
+			</div>
+			<div class="footerAddr">
+				<span style="margin-left: -8px; !important">주소 : 서울특별시 강남구 테헤란로 607 (삼성동)</span>
+				<!-- 2022.05.09 footer 수정 - 시작 -->
+				<span>복합기 • 카메라 고객상담실 : 1533-3355 / 캐논비즈몰 고객상담실 : 1666-3037</span>
+				<!-- 2022.05.09 footer 수정 - 끝 -->
+				<p>Copyright © CANON KOREA All Rights reserved</p>
+			</div>
+			<ul class="footerSites">
+				<li>
+					<img src="/resources/assets/img/main/img_footer_2.png" alt="가족친화 우수기업">
+					<span>가족친화 우수기업</span>
+				</li>
+				<li>
+					<img src="/resources/assets/img/main/img_footer_3.png" alt="소비자 중심 경영">
+					<span>소비자 중심 경영</span>
+				</li>
+				<li>
+					<img src="/resources/assets/img/main/img_footer_4.png" alt="[인증범위] 영업부문 IT운영관리 [유효기간] 2021.11.03 ~ 2024.11.02">
+					<span>
+						[인증범위] 캐논코리아 온라인 쇼핑몰 운영 (e스토어, 비즈몰)
+						<br>
+						[유효기간] 2022.10.19 ~ 2025.10.18
+					</span>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="footer-nav-left">
+		<p class="footer-copyright">©2022 Company WebApplication</p>
+	</div>
+	<div class="footer-nav-center">
+		<ul class="footer-nav-menu">
+			<li class="footer-nav-item">
+				<a href="https://get.foundation/develop/getting-started.html">Building Blocks</a>
+			</li>
+			<li class="footer-nav-item">
+				<a href="https://get.foundation/get-involved/support.html">Get Involved</a>
+			</li>
+			<li class="footer-nav-item">
+				<a href="https://get.foundation/sites/docs/">Docs</a>
+			</li>
+		</ul>
+	</div>
+	<div class="footer-nav-right">
+		<ul class="footer-nav-menu-icons">
+			<li class="footer-nav-item">
+				<a href="get-involved/support.html">
+					<img class="footer-social-icon" src="${path3 }/resources/icon/email-icon.svg" alt="">
+				</a>
+			</li>
+			<li class="footer-nav-item">
+				<a href="https://www.facebook.com/foundation/">
+					<img class="footer-social-icon" src="${path3 }/resources/icon/facebook-icon.svg" alt="">
+				</a>
+			</li>
+			<li class="footer-nav-item">
+				<a href="https://twitter.com/FoundationCSS">
+					<img class="footer-social-icon" src="${path3 }/resources/icon/twitter-icon.svg" alt="">
+				</a>
+			</li>
+			<li class="footer-nav-item">
+				<a href="https://www.youtube.com/channel/UCS7eqSwmBYuslPEKeJBq-kg">
+					<img class="footer-social-icon" src="${path3 }/resources/icon/youtube-icon.svg" alt="">
+				</a>
+			</li>
+		</ul>
+	</div>
+</article>

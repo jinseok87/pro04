@@ -11,4 +11,5 @@ public class FreeDTO {
 	private int visited;
 	private String id;
 	private int rec;
+	
 }

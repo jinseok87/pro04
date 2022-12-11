@@ -1,3 +1,95 @@
 
 12월 09, 2022 17:49:14.77 NEW SESSION
 12월 09, 2022 17:49:14.77 [4168:4648:1209/174914.773:ERROR:device_event_log_impl.cc(215)] [17:49:14.773] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+12월 11, 2022 22:04:35.62 NEW SESSION
+12월 11, 2022 22:04:35.62 [10888:15812:1211/220435.619:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12월 11, 2022 22:04:35.62 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12월 11, 2022 22:04:35.62 ERROR: Failed parsing Certificate
+12월 11, 2022 22:04:35.62 
+12월 11, 2022 22:04:36.47 [10888:10300:1211/220436.475:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12월 11, 2022 22:04:36.47 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12월 11, 2022 22:04:36.47 ERROR: Failed parsing Certificate
+12월 11, 2022 22:04:36.47 
+12월 11, 2022 22:04:36.49 [10888:10300:1211/220436.498:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12월 11, 2022 22:04:36.49 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12월 11, 2022 22:04:36.49 ERROR: Failed parsing Certificate
+12월 11, 2022 22:04:36.50 
+12월 11, 2022 22:04:36.74 [10888:10300:1211/220436.741:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12월 11, 2022 22:04:36.74 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12월 11, 2022 22:04:36.74 ERROR: Failed parsing Certificate
+12월 11, 2022 22:04:36.74 
+12월 11, 2022 22:04:56.70 [10888:15812:1211/220456.704:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12월 11, 2022 22:04:56.70 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12월 11, 2022 22:04:56.70 ERROR: Failed parsing Certificate
+12월 11, 2022 22:04:56.70 
+12월 11, 2022 22:04:56.71 [10888:15812:1211/220456.716:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12월 11, 2022 22:04:56.71 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12월 11, 2022 22:04:56.71 ERROR: Failed parsing Certificate
+12월 11, 2022 22:04:56.71 
+12월 11, 2022 22:05:34.74 [10888:23036:1211/220534.745:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 11, 2022 22:05:36.82 [10888:18376:1211/220536.823:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12월 11, 2022 22:05:36.82 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12월 11, 2022 22:05:36.82 ERROR: Failed parsing Certificate
+12월 11, 2022 22:05:36.82 
+12월 11, 2022 22:55:57.09 [10888:2460:1211/225557.096:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12월 11, 2022 22:55:57.09 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12월 11, 2022 22:55:57.09 ERROR: Failed parsing Certificate
+12월 11, 2022 22:55:57.09 
+12월 11, 2022 23:04:36.25 [10888:35292:1211/230436.259:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12월 11, 2022 23:04:36.25 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12월 11, 2022 23:04:36.26 ERROR: Failed parsing Certificate
+12월 11, 2022 23:04:36.26 
+12월 11, 2022 23:27:12.37 [10888:19728:1211/232712.369:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12월 11, 2022 23:27:12.37 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12월 11, 2022 23:27:12.37 ERROR: Failed parsing Certificate
+12월 11, 2022 23:27:12.37 
+12월 12, 2022 24:00:33.10 [10888:22968:1212/000033.104:ERROR:CONSOLE(1)] "Uncaught RangeError: Field is not present in this state", source: devtools://devtools/bundled/devtools-frontend/front_end/third_party/codemirror.next/chunk/codemirror.js (1)
+12월 12, 2022 24:04:35.61 [10888:9152:1212/000435.616:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12월 12, 2022 24:04:35.61 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12월 12, 2022 24:04:35.61 ERROR: Failed parsing Certificate
+12월 12, 2022 24:04:35.61 
+12월 12, 2022 24:06:55.46 [10888:22968:1212/000655.466:ERROR:CONSOLE(1)] "Uncaught RangeError: Field is not present in this state", source: devtools://devtools/bundled/devtools-frontend/front_end/third_party/codemirror.next/chunk/codemirror.js (1)
+12월 12, 2022 24:10:15.62 [10888:22968:1212/001015.625:ERROR:interface_endpoint_client.cc(694)] Message 0 rejected by interface blink.mojom.WidgetHost
+12월 12, 2022 24:10:44.53 [10888:22968:1212/001044.529:ERROR:device_event_log_impl.cc(215)] [00:10:44.530] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+12월 12, 2022 01:01:15.39 [10888:25008:1212/010115.391:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12월 12, 2022 01:01:15.39 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12월 12, 2022 01:01:15.39 ERROR: Failed parsing Certificate
+12월 12, 2022 01:01:15.39 
+12월 12, 2022 01:01:17.65 [10888:3436:1212/010117.654:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12월 12, 2022 01:01:17.65 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12월 12, 2022 01:01:17.65 ERROR: Failed parsing Certificate
+12월 12, 2022 01:01:17.65 
+12월 12, 2022 01:15:16.78 [10888:35328:1212/011516.780:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12월 12, 2022 01:15:16.78 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12월 12, 2022 01:15:16.78 ERROR: Failed parsing Certificate
+12월 12, 2022 01:15:16.78 
+12월 12, 2022 01:15:18.67 [10888:13448:1212/011518.676:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12월 12, 2022 01:15:18.67 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12월 12, 2022 01:15:18.67 ERROR: Failed parsing Certificate
+12월 12, 2022 01:15:18.67 
+12월 12, 2022 01:22:26.47 [10888:28720:1212/012226.478:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12월 12, 2022 01:22:26.47 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12월 12, 2022 01:22:26.47 ERROR: Failed parsing Certificate
+12월 12, 2022 01:22:26.47 
+12월 12, 2022 01:22:40.57 [10888:7752:1212/012240.578:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12월 12, 2022 01:22:40.57 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12월 12, 2022 01:22:40.57 ERROR: Failed parsing Certificate
+12월 12, 2022 01:22:40.57 
+12월 12, 2022 01:25:16.54 [10888:14544:1212/012516.546:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.jungol.co.kr failed:
+12월 12, 2022 01:25:16.54 ----- Certificate i=0 (CN=ubuntu) -----
+12월 12, 2022 01:25:16.54 ERROR: No matching issuer found
+12월 12, 2022 01:25:16.54 
+12월 12, 2022 01:25:16.54 
+12월 12, 2022 01:25:16.62 [10888:7752:1212/012516.621:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12월 12, 2022 01:25:16.62 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12월 12, 2022 01:25:16.62 ERROR: Failed parsing Certificate
+12월 12, 2022 01:25:16.62 
+12월 12, 2022 01:25:17.20 [10888:34032:1212/012517.200:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12월 12, 2022 01:25:17.20 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12월 12, 2022 01:25:17.20 ERROR: Failed parsing Certificate
+12월 12, 2022 01:25:17.20 
+12월 12, 2022 01:25:17.21 [10888:34032:1212/012517.213:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12월 12, 2022 01:25:17.21 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12월 12, 2022 01:25:17.21 ERROR: Failed parsing Certificate
+12월 12, 2022 01:25:17.21 
